@@ -19,6 +19,8 @@ O sistema recomenda uma atividade de lazer com base em três informações: temp
 
 A4_Lazer_Inteligente/
 ├── README.md
+├── app_web.py        
+├── requirements.txt
 ├── src/
 │   ├── __init__.py
 │   ├── base_conhecimento.py
